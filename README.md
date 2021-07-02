@@ -1,5 +1,8 @@
 # JavaBootCamp
 First week homework
-    * fibonacci series
-    * puanlama programı
-    * manav
+
+
+     * fibonacci series
+     * puanlama programı
+     * manav
+   
