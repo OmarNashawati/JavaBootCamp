@@ -4,5 +4,5 @@ First week homework
 
      * fibonacci series
      * puanlama programı
-     * manav
+     * manav kasa programı
    
