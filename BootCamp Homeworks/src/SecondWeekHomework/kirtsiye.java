@@ -16,6 +16,7 @@ public class kirtsiye {
     static ArrayList<String> productsList = new ArrayList<>();
     static ArrayList<Integer> numOfProductsList = new ArrayList<>();
 
+    
     public static void main(String[] args){
 
         initProductList();
@@ -24,8 +25,8 @@ public class kirtsiye {
 
         makeReport();
 
-
     }
+    
 
     private static void takeInputs(){
 
@@ -41,6 +42,7 @@ public class kirtsiye {
         }
 
     }
+    
 
     private static void initProductList(){
 
@@ -78,11 +80,10 @@ public class kirtsiye {
         int tokenProductTypeNum = tokenProductsList.size() ;
 
 
-
-
         printReport(totalOftokenProducts , tokenProductsList ,tokenProductsNumList,tokenProductTypeNum);
 
     }
+    
 
     private static void printReport(int totalOfProducts,ArrayList<String> tokenProducts,ArrayList<Integer> tokenProductsNum,
                                     int tokenProductTypeNum){
@@ -106,6 +107,7 @@ public class kirtsiye {
         makeStarLine();
 
     }
+    
 
     private static void makeStarLine(){
         String star ="*";
