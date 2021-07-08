@@ -56,7 +56,7 @@ public class VizeFinalProgrami {
 
 
     private static void yazdir(float ortalmaNotu , String harfNotu){
-        System.out.println("\nortalamanız  : " + ortalmaNotu + "\nHarf notunuz : "+harfNotu);
+        System.out.println("\Ortalama Notunuz  : " + ortalmaNotu + "\nHarf Notunuz : "+harfNotu);
     }
 
 
